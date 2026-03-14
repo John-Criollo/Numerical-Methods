@@ -1,0 +1,8 @@
+N.Iteratio        117
+Computed values:
+Beta1:      10.60
+Beta2:       2.63
+Var(error)    0.01198
+Var(beta1)    0.11931
+Var(beta2)    0.00583
+ Temperature: 5467.58247

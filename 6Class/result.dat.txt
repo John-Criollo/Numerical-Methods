@@ -1,0 +1,4 @@
+# THIS IS COMPUTED FORM SAMPLE/DAT
+#      MEAN       STD     98PCT
+#aaaaaa.bbbcccccc.dddeeeeee.fff
+  4644.969 11081.871  4866.925

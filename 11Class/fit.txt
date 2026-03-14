@@ -1,0 +1,8 @@
+ Computed values:
+    Beta1:    1484.34
+    Beta2:      64.20
+       R2:       0.98
+      SD1:     514.63
+      SD2:       2.54
+  In the case we have Vr(d) = beta*d
+     Beta:      73.01
